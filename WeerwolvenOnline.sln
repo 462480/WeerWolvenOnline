@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeerwolvenOnline", "WeerwolvenOnline.csproj", "{DAF74A72-88D1-4F21-A349-B4B1D7AE1EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeerwolvenOnline", "WeerwolvenOnline.csproj", "{DAF74A72-88D1-4F21-A349-B4B1D7AE1EAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeerwolvenLogic", "..\WeerwolvenLogic\WeerwolvenLogic.csproj", "{7C8B47C6-A717-4371-864E-B1FDB1615488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DAF74A72-88D1-4F21-A349-B4B1D7AE1EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF74A72-88D1-4F21-A349-B4B1D7AE1EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF74A72-88D1-4F21-A349-B4B1D7AE1EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8B47C6-A717-4371-864E-B1FDB1615488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8B47C6-A717-4371-864E-B1FDB1615488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8B47C6-A717-4371-864E-B1FDB1615488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8B47C6-A717-4371-864E-B1FDB1615488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
